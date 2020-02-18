@@ -49,5 +49,6 @@ static UINavigationBar class with these lines:
 ```
 UINavigationBar.Appearance.barTintColor = UIColor.Blue;
 UINavigationBar.Appearance.TintColor = UIColor.White;
+UINavigationBar.Appearance.SetTitleTextAttributes(new UITextAttributes { TextColor = UIColor.White });
 ```
 
